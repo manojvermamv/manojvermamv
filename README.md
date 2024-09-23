@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manojvermamv](https://github.com/manojvermamv)
+- 👨‍💻 All of my projects are available at [https://github.com/manojvermamv](https://github.com/manojvermamv?tab=repositories)
 
 - 📫 How to reach me **manojv097@gmail.com**
 
