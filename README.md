@@ -1,19 +1,3 @@
-
-<!--
-**manojvermamv/manojvermamv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Manoj Verma</h1>
 <h3 align="center">A passionate Mobile app developer from India</h3>
 
@@ -58,9 +42,9 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedgamalramadan&show_icons=true&locale=en&layout=compact" alt="ahmedgamalramadan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedgamalramadan&show_icons=true&locale=en" alt="ahmedgamalramadan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgamalramadan&" alt="ahmedgamalramadan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojvermamv&show_icons=true&locale=en&layout=compact" alt="manojvermamv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojvermamv&show_icons=true&locale=en" alt="manojvermamv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojvermamv&" alt="manojvermamv" /></p>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
