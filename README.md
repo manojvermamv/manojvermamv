@@ -43,7 +43,7 @@
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojvermamv&show_icons=true&locale=en&layout=compact" alt="manojvermamv" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojvermamv&show_icons=true&locale=en" alt="manojvermamv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojvermamv&show_icons=true&locale=en&theme=radical" alt="manojvermamv" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojvermamv&" alt="manojvermamv" /></p>
 
 <div align="center">
