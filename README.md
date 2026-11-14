@@ -1,42 +1,46 @@
 <h1 align="center">Hi 👋, I'm Manoj Verma</h1>
-<h3 align="center">Software Developer • Android & React Native • AI Agents, Automation & Developer Tools</h3>
+<h3 align="center">Android & React Native developer building AI-agent tooling, automation and trading systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manojvermamv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for manojvermamv" />
+  <a href="https://linkedin.com/in/manojvermamv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:manojv097@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Jaipur%2C%20India-555?style=flat" alt="Based in Jaipur, India" />
 </p>
 
-<p align="center">
-  <img width="260" src="https://github-profile-trophy-unserori.vercel.app/?username=manojvermamv&theme=radical&title=Commits,Repositories,MultipleLang&column=3" alt="GitHub Trophy for manojvermamv" />
-</p>
-
-- 📱 Building mobile applications with <strong>React Native, Android, Kotlin & Java</strong>
-- 🤖 Exploring <strong>AI agents, intelligent workflows, and practical automation</strong>
-- 🛠️ Working with <strong>Python, backend services, developer tools & data workflows</strong>
-- 💬 Ask me about <strong>Mobile Development, Android, Kotlin, React Native & Python</strong>
-- 📫 Reach me: <a href="mailto:manojv097@gmail.com">manojv097@gmail.com</a>
-- 👨‍💻 Explore my projects: <a href="https://github.com/manojvermamv?tab=repositories">GitHub Repositories</a>
+- 📱 Native Android (Kotlin, Java) and React Native apps, from UI to background services
+- 🤖 Tools that make coding agents (Claude Code, Codex, OpenCode) reliable: project memory, code audits, approval-gated ops
+- 📈 Algorithmic-trading infrastructure on OpenAlgo: market-data recording, replay and risk-controlled automation
+- 📫 Open to Android, React Native and AI-engineering roles — <a href="mailto:manojv097@gmail.com">manojv097@gmail.com</a>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </div>
 
-## About
-I'm a software developer interested in building practical applications, developer tools, and intelligent automation systems.
+## Selected Projects
 
-My work spans native Android and cross-platform mobile development, AI-assisted engineering, agent-based workflows, Python automation, backend services, and data-driven tools.
+### 🤖 AI agents & developer tools
 
-I enjoy exploring software architecture, system design, reliability, and ways to make complex workflows more maintainable, explainable, and useful in real-world scenarios.
+| Project | What it does | Stack |
+|---|---|---|
+| **[Context Forge](https://github.com/manojvermamv/context-forge)** | Durable, reviewable project memory for Claude Code and Codex — loads less context, keeps what matters | Python |
+| **[Continuous Code Auditor](https://github.com/manojvermamv/continuous-code-auditor)** | Resumable, evidence-based code-audit Agent Skill with persistent findings | Shell, Python |
+| **[mycodex](https://github.com/manojvermamv/mycodex)** | Runs the official Codex CLI across several accounts with automatic rotation and phone remote control | Python |
+| **[OpenCode Agent Ops](https://github.com/manojvermamv/opencode-agent-ops)** | Linux server administration by AI subagents, with human approval on every change | Shell |
+| **[Intent Operating Fabric](https://github.com/manojvermamv/intent-operating-fabric)** | A personal agent that routes work to independent Windows and Linux machine agents over A2A | Python |
+| **[Salience](https://github.com/manojvermamv/Salience)** | Research-to-publish content pipeline with evidence links and human approval | Python, FastAPI |
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
-</div>
+### 📱 Mobile
 
-## What I work on
-- <strong>Mobile Development:</strong> Native Android applications, React Native, Kotlin, Java, Jetpack Compose, background services, and platform integrations.
-- <strong>AI & Agent Engineering:</strong> Agent-based systems, coding-agent workflows, context management, project memory, and intelligent automation.
-- <strong>Developer Tools & Automation:</strong> Python utilities, CLI applications, code auditing, workflow orchestration, and productivity tools.
-- <strong>Backend & Data Engineering:</strong> Ktor APIs, Node.js services, databases, document processing, and structured data workflows.
-- <strong>Research & Trading Systems:</strong> Algorithmic trading architecture, strategy research, market-data workflows, and systematic experimentation.
+| Project | What it does | Stack |
+|---|---|---|
+| **[Android Examples](https://github.com/manojvermamv/android-examples)** | Hand-written Android sample apps and interview demos: MVVM, LiveData, Coroutines, Retrofit | Kotlin, Java |
+
+### 📈 Trading & data
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[oa-recorder](https://github.com/manojvermamv/oa-recorder)** | Records OpenAlgo market data every trading day into Parquet files | Python, Docker |
+| **[AutonomousTrading Architect](https://github.com/manojvermamv/AutonomousTradingArchitect)** | Architecture research for an AI-supervised options desk where the model proposes and hard limits decide | TypeScript |
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
@@ -46,79 +50,49 @@ I enjoy exploring software architecture, system design, reliability, and ways to
 
 <p align="center">
   <kbd>
-    <kbd>Mobile</kbd>
+    <kbd>📱 Mobile</kbd>
     <br><br>
     <img height="48" src="https://skillicons.dev/icons?i=react" alt="React Native" />
     <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="Android" />
   </kbd>
   <kbd>
-    <kbd>Languages</kbd>
+    <kbd>💻 Languages</kbd>
     <br><br>
     <img height="48" src="https://skillicons.dev/icons?i=kotlin,python,js,java&perline=4" alt="Kotlin, Python, JavaScript, and Java" />
   </kbd>
   <kbd>
-    <kbd>Frameworks &amp; Libraries</kbd>
+    <kbd>🧩 Frameworks &amp; Libraries</kbd>
     <br><br>
     <img height="48" src="https://skillicons.dev/icons?i=react&perline=1" alt="React" />
   </kbd>
   <kbd>
-    <kbd>AI Engineering &amp; Agent Development</kbd>
+    <kbd>🤖 AI Engineering &amp; Agent Development</kbd>
     <br><br>
     <img height="48" src="https://skillicons.dev/icons?i=ai,openai,pytorch&perline=3" alt="AI, OpenAI, and PyTorch" />
   </kbd>
   <kbd>
-    <kbd>Databases &amp; Storage</kbd>
+    <kbd>🗄️ Databases &amp; Storage</kbd>
     <br><br>
     <img height="48" src="https://skillicons.dev/icons?i=sqlite,mongodb&perline=2" alt="SQLite and MongoDB" />
     <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/realm/realm-original.svg" alt="Realm" />
   </kbd>
   <kbd>
-    <kbd>Cloud &amp; Tools</kbd>
+    <kbd>☁️ Cloud &amp; Tools</kbd>
     <br><br>
     <img height="48" src="https://skillicons.dev/icons?i=firebase,gcp,git,postman,figma&perline=5" alt="Firebase, Google Cloud, Git, Postman, and Figma" />
   </kbd>
 </p>
 
-## Selected Projects
-
-A selection of projects exploring mobile development, AI engineering, automation, and practical software architecture.
-
-### AI, Agents & Developer Tools
-
-- 🧠 **[Context Forge](https://github.com/manojvermamv/context-forge)**
-  — Portable project memory and context compilation for coding agents.
-
-- 🔍 **[Continuous Code Auditor](https://github.com/manojvermamv/continuous-code-auditor)**
-  — Resumable, evidence-based code auditing with persistent findings and audit history.
-
-- ⚙️ **[Intent Operating Fabric](https://github.com/manojvermamv/intent-operating-fabric)**
-  — A deployment and operating framework for coordinating independent AI agents.
-
-- 🎬 **[Salience](https://github.com/manojvermamv/Salience)**
-  — Governed content-production workflows with research, evidence, and approval-ready outputs.
-
-### Mobile Development
-
-- 📍 **[React Native Background Location](https://github.com/manojvermamv/react-native-background-location)**
-  — React Native library for background location tracking and geofencing.
-
-- 📱 **[Android Examples](https://github.com/manojvermamv/android-examples)**
-  — Collection of Android demonstrations, Kotlin projects, and practical development examples.
-
-### Backend, Data & Research
-
-- 📚 **[gnidart](https://github.com/manojvermamv/gnidart)**
-  — Document conversion and knowledge-ingestion workflows for PDFs and EPUBs.
-
-- 📈 **[AutonomousTrading](https://github.com/manojvermamv/AutonomousTrading)**
-  — AI-assisted intraday options trading framework combining deterministic strategy planning and risk controls, OpenAlgo broker integration, market-data validation, replay, research workflows, and an operator console. AI supports observation and proposals, while trade authorization remains outside the model's control.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+</div>
 
 ## Currently learning
-- 🤖 AI engineering, LLM applications, agent architectures, and multi-agent workflows
-- 🧠 Context engineering, retrieval systems, and reliable AI-assisted development
-- 🏗️ Software architecture, system design, distributed systems, and reliability engineering
-- 📱 Modern Android development, React Native, and backend integration
-- ⚙️ Workflow automation, Python tooling, and practical developer productivity systems
+- 🤖 Multi-agent systems: orchestration, A2A routing and human-in-the-loop approvals
+- 🧠 Context engineering: project memory, retrieval and keeping coding agents grounded in evidence
+- 🏗️ System design for reliability: audit trails, replay and fail-safe limits on automated actions
+- 📱 Modern Android (Jetpack Compose, Coroutines) and React Native with real backend integrations
+- ⚙️ Python tooling and automation that turns repeated work into one reviewed command
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
