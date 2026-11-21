@@ -10,7 +10,7 @@
 - 📱 Native Android (Kotlin, Java) and React Native apps, from UI to background services
 - 🤖 Tools that make coding agents (Claude Code, Codex, OpenCode) reliable: project memory, code audits, approval-gated ops
 - 📈 Algorithmic-trading infrastructure on OpenAlgo: market-data recording, replay and risk-controlled automation
-- 📫 Open to Android, React Native and AI-engineering roles — <a href="mailto:manojv097@gmail.com">manojv097@gmail.com</a>
+- 📫 Available for full-time roles and freelance or contract projects in Android, React Native and AI engineering — <a href="mailto:manojv097@gmail.com">manojv097@gmail.com</a>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
@@ -41,6 +41,32 @@
 |---|---|---|
 | **[oa-recorder](https://github.com/manojvermamv/oa-recorder)** | Records OpenAlgo market data every trading day into Parquet files | Python, Docker |
 | **[AutonomousTrading Architect](https://github.com/manojvermamv/AutonomousTradingArchitect)** | Architecture research for an AI-supervised options desk where the model proposes and hard limits decide | TypeScript |
+
+### ☁️ Cloud & automation
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[EC2 Idle Stop and Wake](https://github.com/manojvermamv/ec2-idle-stop-wake)** | Turns idle AWS EC2 servers off automatically and wakes them from a browser, phone or terminal, so you pay only while you work | AWS, Shell |
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+</div>
+
+## Work with me
+
+| I can build for you | Proof you can open today |
+|---|---|
+| Native Android apps in Kotlin and Java, from UI to background services | [Android Examples](https://github.com/manojvermamv/android-examples), [GithubGo](https://github.com/manojvermamv/GithubGo) |
+| AI coding-agent tooling: project memory, automated code audits, approval-gated automation | [Context Forge](https://github.com/manojvermamv/context-forge), [Continuous Code Auditor](https://github.com/manojvermamv/continuous-code-auditor), [OpenCode Agent Ops](https://github.com/manojvermamv/opencode-agent-ops) |
+| Trading automation on OpenAlgo: market-data pipelines and strategy infrastructure | [oa-recorder](https://github.com/manojvermamv/oa-recorder), [AutonomousTrading Architect](https://github.com/manojvermamv/AutonomousTradingArchitect) |
+| Cloud cost and server automation on AWS and Linux | [EC2 Idle Stop and Wake](https://github.com/manojvermamv/ec2-idle-stop-wake), [setup runbooks](https://github.com/manojvermamv/docs) |
+
+**How I work**
+
+- ✅ Plain-language progress updates, backed by tests, logs or a demo — not just "it's done"
+- 🔒 Nothing risky runs without your approval: deploys, data changes and anything touching money
+- 📦 Clean handover: README, setup docs and an `AGENTS.md`, so your team or any AI assistant can carry on
+- 🕒 Based in India (IST, UTC+5:30) — reach me by <a href="mailto:manojv097@gmail.com">email</a> or <a href="https://linkedin.com/in/manojvermamv">LinkedIn</a>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
